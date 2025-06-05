@@ -1,0 +1,1 @@
+/home/deck/.config/home-manager/home.nix
