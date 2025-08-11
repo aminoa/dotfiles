@@ -1,0 +1,97 @@
+{
+  "actions" : [
+    {
+      "direction" : "BottomHalf",
+      "keybind" : [
+        38
+      ]
+    },
+    {
+      "direction" : "BottomLeftQuarter",
+      "keybind" : [
+        4,
+        38
+      ]
+    },
+    {
+      "direction" : "BottomRightQuarter",
+      "keybind" : [
+        37,
+        38
+      ]
+    },
+    {
+      "cycle" : [
+        {
+          "direction" : "LeftHalf",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "PreviousScreen",
+          "keybind" : [
+
+          ]
+        }
+      ],
+      "direction" : "Cycle",
+      "keybind" : [
+        4
+      ],
+      "name" : "Left Half"
+    },
+    {
+      "cycle" : [
+        {
+          "direction" : "NextScreen",
+          "keybind" : [
+
+          ]
+        },
+        {
+          "direction" : "RightHalf",
+          "keybind" : [
+
+          ]
+        }
+      ],
+      "direction" : "Cycle",
+      "keybind" : [
+        37
+      ],
+      "name" : "Right Half"
+    },
+    {
+      "direction" : "Maximize",
+      "keybind" : [
+        49
+      ]
+    },
+    {
+      "direction" : "TopHalf",
+      "keybind" : [
+        40
+      ]
+    },
+    {
+      "direction" : "TopLeftQuarter",
+      "keybind" : [
+        4,
+        40
+      ]
+    },
+    {
+      "direction" : "TopRightQuarter",
+      "keybind" : [
+        37,
+        40
+      ]
+    }
+  ],
+  "triggerKey" : [
+    55,
+    59
+  ],
+  "version" : "1.3.0"
+}
